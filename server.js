@@ -192,6 +192,7 @@ Rules:
 - Prioritize cost/insurance content when the patient mentions financial concerns
 - Prioritize GLP-1 content when the patient has tried medications
 - Prioritize diabetes content when the patient mentions diabetes or blood sugar
+- Never use the word "journey" in the reason field — it is hollow and overused
 - Never recommend content that would increase anxiety or make the patient feel worse
 - The reason field must be specific to their answers — not generic`;
 
